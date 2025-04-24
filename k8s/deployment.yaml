@@ -26,18 +26,6 @@ spec:
           name: html-config
 ---
 apiVersion: v1
-kind: ConfigMap
-metadata:
-  name: html-config
-data:
-  index.html: |
-    <!DOCTYPE html>
-    <html>
-    <head><title>Hello</title></head>
-    <body><h1>Hello, Hariommmm</h1></body>
-    </html>
----
-apiVersion: v1
 kind: Service
 metadata:
   name: html-service
