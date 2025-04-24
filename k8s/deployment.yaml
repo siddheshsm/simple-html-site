@@ -78,7 +78,7 @@ spec:
       volumes:
       - name: html-volume
         hostPath:
-          path: ../index.html
+          path: ./index.html
           type: File
 ---
 apiVersion: v1
