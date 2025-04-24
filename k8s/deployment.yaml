@@ -34,7 +34,7 @@ data:
     <!DOCTYPE html>
     <html>
     <head><title>Hello</title></head>
-    <body><h1>Hello from Argo CD!</h1></body>
+    <body><h1>Hello, Hariommmm</h1></body>
     </html>
 ---
 apiVersion: v1
